@@ -1,6 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
-@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 /*
 	Highlights by HTML5 UP
@@ -168,13 +168,13 @@ input, select, textarea {
 		}
 
 		h1 {
-			font-family: Sofia;
+			font-family: 'Dancing Script';
 		}
 
 	h2 {
 		font-size: 1.85em;
 		line-height: 1.5em;
-        font-family: Sofia;
+        font-family: 'Dancing Script';
 		text-transform: capitalize;
 	}
 
